@@ -12,3 +12,5 @@ data assimilation methods for the Lorenz-96 system.
 - Gaspari-Cohn localization function (Julia)
 - Periodic boundary conditions
 - Visualization of analysis results
+
+*Code being updated continuously*
